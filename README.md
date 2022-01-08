@@ -2,12 +2,12 @@
 https://www.youtube.com/watch?v=3hocvaTHagI&ab_channel=NERO3D
 
 
-<h2>1- Octopus pro board config</h2> 
+<h2>Octopus pro board config</h2> 
 https://docs.vorondesign.com/build/startup/
 <p>
 Here are the steps in the correct order:
 
-<ul> Jumper settings
+<h2>1- Jumper settings</h2>
 <li style="color:red" > Red: Remove Jumper</li>
 <li  style="color:red" > Green: add Jumper</li>
 </ul>
@@ -42,7 +42,7 @@ is configured and tested to be working with the settings mentioned in this READM
 <li>STEPPER_BUZZ STEPPER=stepper_z3</li>
  </ul>
 
-<h3>4- XY Homing Check</h3>
+<h3>3- XY Homing Check</h3>
 see here: https://docs.vorondesign.com/build/startup/#xy-homing-check
 <p>
 Wiring troubleshooting 
