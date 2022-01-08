@@ -31,7 +31,6 @@ is configured and tested to be working with the settings mentioned in this READM
  If the steppers do not move or make strange noises, check the wiring. Be sure to watch the Z motion to ensure the direction is correct. If the Z motor(s) do not move in the correct directions, invert the DIR pin on the printer configuration.
 </b>
 
-Note: if
 <ul><b>Commands</b>
 <li>STEPPER_BUZZ STEPPER=stepper_x</li>
 <li>STEPPER_BUZZ STEPPER=stepper_y</li>
