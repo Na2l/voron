@@ -1,4 +1,5 @@
 # voron 2.4 350 mm
+# z-end stop (bed locating)
 https://www.youtube.com/watch?v=3hocvaTHagI&ab_channel=NERO3D
 
 
