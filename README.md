@@ -1,10 +1,12 @@
 # voron 2.4 350 mm
+https://www.youtube.com/watch?v=3hocvaTHagI&ab_channel=NERO3D
 
+
+<h2>1- Octopus pro board config</h2> 
 https://docs.vorondesign.com/build/startup/
 <p>
 Here are the steps in the correct order:
 
-<h2>1- Octopus pro board config</h2> 
 <ul> Jumper settings
 <li style="color:red" > Red: Remove Jumper</li>
 <li  style="color:red" > Green: add Jumper</li>
