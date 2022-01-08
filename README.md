@@ -38,7 +38,7 @@ is configured and tested to be working with the settings mentioned in this READM
 <li>STEPPER_BUZZ STEPPER=stepper_z1</li>
 <li>STEPPER_BUZZ STEPPER=stepper_z2</li>
 <li>STEPPER_BUZZ STEPPER=stepper_z3</li>
-</li>
+ </ul>
 
 <h3>4- XY Homing Check</h3>
 see here: https://docs.vorondesign.com/build/startup/#xy-homing-check
