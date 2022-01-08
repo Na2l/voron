@@ -43,7 +43,8 @@ is configured and tested to be working with the settings mentioned in this READM
 <h3>4- XY Homing Check</h3>
 see here: https://docs.vorondesign.com/build/startup/#xy-homing-check
 <p>
-Wiring hint:
+Wiring troubleshooting 
+</p>
 <img src='https://docs.vorondesign.com/build/startup/images/V2-motor-configuration-guide.png'>
 
 https://docs.vorondesign.com/build/startup/
